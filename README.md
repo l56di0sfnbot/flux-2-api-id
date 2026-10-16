@@ -107,6 +107,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-309573) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [flux-2-prompts-id](https://github.com/l56di0sfnbot/flux-2-prompts-id)
+- **Same model, other languages** — 9 more language builds: 中文 [flux-2-api-cn](https://github.com/zx85rjc583qz/flux-2-api-cn) · Deutsch [flux-2-api-de](https://github.com/kx4u3/flux-2-api-de) · Español [flux-2-api-es](https://github.com/xx54rb3/flux-2-api-es) · Français [flux-2-api-fr](https://github.com/pv7hg/flux-2-api-fr) · Relay/gateway `flux-2-api-gateway` · 日本語 [flux-2-api-ja](https://github.com/c5yg2uk/flux-2-api-ja) · 한국어 [flux-2-api-ko](https://github.com/onnxrnf/flux-2-api-ko) · Português [flux-2-api-pt](https://github.com/dtqipdogsna0/flux-2-api-pt) · Русский [flux-2-api-ru](https://github.com/ndn2ib6wgfy/flux-2-api-ru)
+- **More models in this language** — [midjourney-api-id](https://github.com/cvrwq0/midjourney-api-id) · [gemini-2-5-flash-image-preview-api-id](https://github.com/gmrg0s/gemini-2-5-flash-image-preview-api-id) · [nano-banana-api-id](https://github.com/vsa185x9ecrd/nano-banana-api-id) · [gemini-3-1-flash-image-preview-api-id](https://github.com/p61qrgpg/gemini-3-1-flash-image-preview-api-id) · [nano-banana-2-api-id](https://github.com/n1rf4ezzz/nano-banana-2-api-id) · [gemini-3-pro-image-preview-api-id](https://github.com/s78ve5v4x9ji2/gemini-3-pro-image-preview-api-id)
+- **Topic hubs** — every build of this model, all languages: [flux-2](https://github.com/topics/flux-2) · [flux-2-api](https://github.com/topics/flux-2-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
